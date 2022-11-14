@@ -1,6 +1,7 @@
 # Personal-Dev-Setup
 A windows development guide for me
 
+### To install packages
 Basic Chocolatey Commands
 We use the choco command to run chocolatey. (Remember, you must use an administrative shell for it to work.)
 
