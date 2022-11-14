@@ -5,7 +5,7 @@ Basic Chocolatey Commands
 We use the choco command to run chocolatey. (Remember, you must use an administrative shell for it to work.)
 
 Install a new package:
-
+```
 choco install filename
 ```
 Remove a package:
@@ -22,5 +22,5 @@ choco upgrade filename
 ```
 or to update everything at once:
 ```
-choco upgrade all\
+choco upgrade all
 ```
