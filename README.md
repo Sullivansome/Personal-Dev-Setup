@@ -1,7 +1,7 @@
 # Personal-Dev-Setup
 A windows development guide for me
 
-### To install packages
+#### To install packages
 Basic Chocolatey Commands
 We use the choco command to run chocolatey. (Remember, you must use an administrative shell for it to work.)
 
@@ -25,3 +25,6 @@ or to update everything at once:
 ```
 choco upgrade all
 ```
+### Install WSL 
+See Microsoft Documentations 
+https://learn.microsoft.com/en-us/windows/wsl/install#change-the-default-Linux-distribution-installed
