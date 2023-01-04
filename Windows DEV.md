@@ -31,6 +31,7 @@ https://learn.microsoft.com/en-us/windows/wsl/install#change-the-default-Linux-d
 
 ### Develop with python
 > Linux comes with python2
+> 
 To upgrade to python3,use
 ```
 sudo apt-get update
